@@ -1,2 +1,2 @@
-# nova1300
+# Novalytic
 This is my first project Novalytics
